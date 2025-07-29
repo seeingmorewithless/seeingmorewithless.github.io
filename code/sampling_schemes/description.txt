@@ -1,5 +1,7 @@
 We provide the binary files of our sampling maps, as well as the Python code
 used to interpolate between the samples and generate the final processed images.
+Please download the filter params data file from the following link before using the filter_image.py script:
+https://www.dropbox.com/scl/fi/4xo15rbuwbbbgsdteyyzh/sampling_scheme_params.mat?rlkey=sxne14vxaqc0ndcgisnh9knmb&st=05zhmtim&dl=0
 
 requires the following python packages:
 =======================================
