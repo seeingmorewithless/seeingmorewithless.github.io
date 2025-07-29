@@ -1,0 +1,3 @@
+In the main paper, Section 5 point I., we claim that variable sampling induces a more globally
+acting self-attention in transformers. Here we provide the code for computing the self-attention
+during image infernece.

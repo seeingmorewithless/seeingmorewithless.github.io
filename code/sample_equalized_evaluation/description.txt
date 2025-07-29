@@ -1,0 +1,4 @@
+In the main paper, Section 3.2, point (2), we evaluate the detection performance of several
+models (DETR, MaskRCNN) on detection information-matched objects. In the Supplementary, Table 
+"Sample-equalised evaluation", we provide the prformance. Here we provide the code used
+for generating the sample-equalized dataset.

@@ -1,0 +1,17 @@
+We provide the binary files of our sampling maps, as well as the Python code
+used to interpolate between the samples and generate the final processed images.
+
+requires the following python packages:
+=======================================
+opt_einsum
+scipy
+PIL
+torch
+cv2
+hdf5storage
+numpy
+
+
+example execution command:
+==========================
+python3 filter_image.py --model_index 0 --fov_index 0 --type var --path vqa/val2017/images --outfolder vqa_val2017_filtered --batchsize 200 --index 1

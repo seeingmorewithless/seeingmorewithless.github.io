@@ -1,0 +1,3 @@
+In the main paper, Figure 4, we show how detection performance varies with object position
+with respect to the fixation point. Here is the code used for generating HRA (see main paper)
+controlled detection datasets for testing.

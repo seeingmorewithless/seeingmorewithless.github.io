@@ -1,0 +1,5 @@
+In the main paper, Section 5, point II, we claim that the neurons (filters) of CNNs develop
+resolution selectivity even within a single object instance when trained with variable images.
+Here we provide the code used for:
+ - Extracting CNN featuremap tensors during variable image inference
+ - Performing statistical tests on the extracted tensors for the above claim

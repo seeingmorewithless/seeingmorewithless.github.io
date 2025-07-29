@@ -1,0 +1,23 @@
+Our experimental setup largely utlizes existing libraries and model repos, since
+we mainly modify the input to each model. Since the repos (listed below) are
+available online, we thought it would be more engaging for the reviewers to provide
+only *novel* code that we made specifically for our experiments.
+
+We are open to advice on what to/not to provide in the camera ready.
+
+Each folder contains a short 'description.txt' similar to this one, describing the
+particular experiment.
+
+Public repositories used for inference:
+LLaVa: 
+ - https://github.com/haotian-liu/LLaVA
+BLIP2 & InstructBLIP: 
+ - https://github.com/salesforce/LAVIS
+ViLT: 
+ - https://github.com/huggingface/transformers/tree/main
+MDETR:
+ - https://github.com/ashkamath/mdetr
+DETR:
+ - https://github.com/facebookresearch/detr
+MaskRCNN:
+ - https://github.com/facebookresearch/maskrcnn-benchmark
